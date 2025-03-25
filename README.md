@@ -5,6 +5,11 @@
 
 This is a simple web application that displays a collection of books. Users can search for books by title or author, sort the results by title or release date, and switch between list and grid views. The application fetches book data from the [FreeAPI Books API](https://api.freeapi.app/api/v1/public/books).
 
+## Deployment Link
+
+[Live Demo](https://suuumans.github.io/book-library/) 
+
+
 ## Features
 
 -   **Search:** Find books by title or author.
@@ -27,9 +32,6 @@ This is a simple web application that displays a collection of books. Users can 
 
 ![Mobile View](image-2.png)
 
-## Deployment Link
-
-[Live Demo]() 
 
 ## Installation
 
